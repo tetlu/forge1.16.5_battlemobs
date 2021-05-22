@@ -1,0 +1,6 @@
+{
+    "parent": "item/upgradeable_bow",
+    "textures": {
+        "layer0": "battlemobs:items/Upgradeable_bow_pulling_0"
+    }
+}

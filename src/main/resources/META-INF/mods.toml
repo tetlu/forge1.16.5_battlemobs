@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved" # https://choosealicense.com/
+
+[[mods]]
+modId="battlemobs"
+version="1.0.0"
+displayName="Battle Mobs"
+logoFile="battlemobs.png"
+credits="Credit where credit's due."
+authors="TheUltimateEngine"
+description='''
+This is a very descriptive description. It describes describable things.
+'''

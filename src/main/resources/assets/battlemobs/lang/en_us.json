@@ -1,0 +1,8 @@
+{
+	//Items
+	"item.battlemobs.upgradeable_bow": "Upgradeable Bow",
+	
+	//Mobs
+	"entity.battlemobs.starsilver_golem": "Starsilver Golem",
+	"entity.battlemobs.iubey": "iubey"
+}
